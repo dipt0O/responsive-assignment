@@ -1,0 +1,36 @@
+
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+    font-size: 80px;
+    color: #363958;
+}
+h2,h5{
+    color: #363958; 
+    font-weight: 600;
+}
+h4{
+    font-weight: 600;
+    color:#57ca7e;
+    font-size: 40px;
+}
+
+.button{
+    
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+.panda-card-footer{
+    background-color: white;
+    border: 0px;
+
+}
+
+.panda-card{
+    border: 0px;
+}
